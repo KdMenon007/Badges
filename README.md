@@ -117,19 +117,16 @@ I believe badges and courses provide a strong foundation, but **hands-on practic
 
 ---
 
-## 🔗 Related Profiles
+## 🌐 Online Profiles
 
-**GitHub:**
-[https://github.com/KdMenon007](https://github.com/KdMenon007)
-
-**Medium:**
-[https://medium.com/@kiranmenon16](https://medium.com/@kiranmenon16)
-
-**TryHackMe:**
-[https://tryhackme.com/p/Mr.Professorx](https://tryhackme.com/p/Mr.Professorx)
-
-**Hack The Box:**
-[https://app.hackthebox.com/home](https://app.hackthebox.com/home)
+| Platform | Profile |
+|---|---|
+| 💻 GitHub | [KdMenon007](https://github.com/KdMenon007) |
+| ✍️ Medium | [@kiranmenon16](https://medium.com/@kiranmenon16) |
+| 📝 HackerNoon | [@professor](https://hackernoon.com/u/professor) |
+| 📰 Hashnode | [@professorxx](https://hashnode.com/@professorxx) |
+| 🛡️ TryHackMe | [Mr.Professorx](https://tryhackme.com/p/Mr.Professorx) |
+| 🎯 Hack The Box | [Profile](https://app.hackthebox.com/home) |
 
 ---
 
